@@ -1,12 +1,12 @@
 <div align="center">
 
-  <!-- Typing SVG Header -->
+  <!-- Typing SVG Header (Fixed width & size) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=2600&pause=900&color=00F2FE&center=true&vcenter=true&width=650&lines=JESSER+RODRIGUEZ;Systems+Engineering+Undergrad;Software+Dev+%26+Database+Designer;Scalable+%26+Maintainable+Systems" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=2600&pause=900&color=00F2FE&center=true&vcenter=true&width=850&lines=JESSER+RODRIGUEZ;Systems+Engineering+Undergrad;Software+Dev+%26+Database+Designer;Scalable+%26+Maintainable+Systems" alt="Typing Header" />
   </a>
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=FF007F&center=true&vcenter=true&width=600&lines=%3E+Architecting+clean+code%2C+robust+databases+and+scalable+systems" alt="Subheader" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=FF007F&center=true&vcenter=true&width=800&lines=%3E+Architecting+clean+code%2C+robust+databases+and+scalable+systems" alt="Subheader" />
   </p>
 
   <!-- Colorful Action Badges -->
