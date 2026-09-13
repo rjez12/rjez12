@@ -33,7 +33,7 @@
   <tr>
     <td width="60%" valign="top" bgcolor="#0d1117">
       <font face="Segoe UI, -apple-system, sans-serif" color="#E6EDF3">
-        <p><b>Degree:</b> <font color="#79C0FF"><b>B.S. in Systems Engineering</b></font></p>
+        <p><b>Degree:</b> <font color="#79C0FF"><b>Systems Engineering student at American University of Managua</b></font></p>
         <p><b>Core Focus:</b> Application Architecture, Backend Solutions & Relational Database Design.</p>
         <p><b>Data Specialization:</b> Schema Design, Normalization (<b>1NF to 3NF</b>), ACID Transactions & Query Tuning.</p>
         <p><b>Methodology:</b> Version Control (<font color="#FFA657"><b>Git / GitHub</b></font>), Clean Code & Modular Architecture.</p>
